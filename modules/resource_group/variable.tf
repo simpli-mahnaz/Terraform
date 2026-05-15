@@ -1,0 +1,1 @@
+variables "rg_name" {}
